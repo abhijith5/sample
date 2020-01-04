@@ -1,3 +1,0 @@
-function df() {
-  sdsada
-}
